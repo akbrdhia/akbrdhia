@@ -1,18 +1,113 @@
-# 💫 About Me:
-Hey there! I’m Akbr, an intermediate developer with a strong curiosity for how systems truly work under the hood. I’ve been exploring different languages — from Kotlin, Java, C#, to React and Flutter — and I enjoy building real projects that blend practicality with creative tech.<br><br>Right now, I’m focusing on sharpening my backend and cybersecurity skills while keeping my feet steady in mobile app development. I believe every line of code should not only function, but also speak logic and purpose.<br><br>Beyond code, I’m learning to master public speaking, because I want to explain complex tech ideas in ways that actually connect with people, not just machines.<br><br>💬 "Code smart. Speak clear. Build something that matters."
+<div align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" width="200"/>
+</div>
+
+<h1 align="center">👋 Hey, I'm Akbar</h1>
+
+<p align="center">
+  <strong>Android Developer | Mobile Enthusiast | Cybersecurity Explorer</strong>
+</p>
+
+<p align="center">
+  A passionate developer from Jakarta 🇮🇩 who loves turning real-world problems into smart digital solutions.<br/>
+  Currently diving deep into <strong>backend development</strong> and <strong>cybersecurity</strong>, while keeping my mobile dev skills sharp 🚀
+</p>
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/akbrdhia)
+  [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/akbrdhia)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 Exploring **API Security** & **Penetration Testing**
+- ⚡ Building scalable **backend systems** with Laravel & Node.js
+- 📱 Crafting beautiful **mobile experiences** with Flutter & Kotlin
+- 🌱 Always learning, always growing
+
+## 💻 Tech Stack
+
+### Frontend & Mobile
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind"  />
+</div>
+
+### Backend & Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"  />
+</div>
+
+### Tools & Others
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"  />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbrdhia&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbrdhia&theme=gruvbox&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbrdhia&layout=compact&theme=gruvbox&hide_border=true&border_radius=10&langs_count=8" height="165" alt="Top Languages" />
+</div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@hhhal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bukan__akbarr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akbardhia19@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akbrdhia&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akbrdhia&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbrdhia&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🎵 Recently Played on Spotify
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akbrdhia&theme=moltack&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://open.spotify.com/user/zfetjhflg6j4qv4eqb35omqej">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zfetjhflg6j4qv4eqb35omqej&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akbrdhia&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
