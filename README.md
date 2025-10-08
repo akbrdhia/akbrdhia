@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" width="200"/>
+  <img src="https://media.tenor.com/nMwwD7FTuHUAAAAi/clash-royale-prince.gif" alt="Coding GIF" width="200"/>
 </div>
 
 <h1 align="center">👋 Hey, I'm Akbar</h1>
@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  A passionate developer from Jakarta 🇮🇩 who loves turning real-world problems into smart digital solutions.<br/>
+  A passionate developer from Bogor 🇮🇩 who loves turning real-world problems into smart digital solutions.<br/>
   Currently diving deep into <strong>backend development</strong> and <strong>cybersecurity</strong>, while keeping my mobile dev skills sharp 🚀
 </p>
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/akbrdhia)
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/bukan__akbarr/)
   [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com)
-  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:your.email@gmail.com)
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/akbrdhia)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:akbardhia19@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/akbardhia)
 
 </div>
 
@@ -27,7 +27,7 @@
 ## 🎯 Current Focus
 
 - 🔐 Exploring **API Security** & **Penetration Testing**
-- ⚡ Building scalable **backend systems** with Laravel & Node.js
+- ⚡ Building scalable **backend systems** with Laravel 
 - 📱 Crafting beautiful **mobile experiences** with Flutter & Kotlin
 - 🌱 Always learning, always growing
 
