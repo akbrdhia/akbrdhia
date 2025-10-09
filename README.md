@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/nMwwD7FTuHUAAAAi/clash-royale-prince.gif" alt="Coding GIF" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUwd3Y1b29haWRjM3oxenJud3RpNXV3YW9hbGd3dnR3bGw2Mnk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YV3LMyBJvv8inERq6k/giphy.gif" alt="Coding GIF" width="200"/>
 </div>
 
 <h1 align="center">👋 Hey, I'm Akbar</h1>
