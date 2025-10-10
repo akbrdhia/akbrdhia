@@ -91,7 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbrdhia&layout=compact&theme=gruvbox&hide_border=true&border_radius=10&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
-
 ---
 
 ## 🎵 Recently Played on Spotify
