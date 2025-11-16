@@ -2,14 +2,14 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUwd3Y1b29haWRjM3oxenJud3RpNXV3YW9hbGd3dnR3bGw2Mnk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YV3LMyBJvv8inERq6k/giphy.gif" alt="Coding GIF" width="200"/>
 </div>
 
-<h1 align="center">👋 Hey, I'm Akbar</h1>
+<h1 align="center">Hey, I'm Akbar</h1>
 
 <p align="center">
   <strong>Android Developer | Mobile Enthusiast | Cybersecurity Explorer</strong>
 </p>
 
 <p align="center">
-  A passionate developer from Bogor 🇮🇩 who loves turning real-world problems into smart digital solutions.<br/>
+  A passionate developer from Bogor who loves turning real-world problems into smart digital solutions.<br/>
   Currently diving deep into <strong>backend development</strong> and <strong>cybersecurity</strong>, while keeping my mobile dev skills sharp 🚀
 </p>
 
@@ -24,14 +24,14 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔐 Exploring **API Security** & **Penetration Testing**
-- ⚡ Building scalable **backend systems** with Laravel 
-- 📱 Crafting beautiful **mobile experiences** with Flutter & Kotlin
-- 🌱 Always learning, always growing
+- Exploring **API Security** & **Penetration Testing**
+- Building scalable **backend systems** with Laravel 
+- Crafting beautiful **mobile experiences** with Flutter & Kotlin
+- Always learning, always growing
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend & Mobile
 <div>
@@ -80,7 +80,7 @@
  
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akbrdhia&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10&count_private=true" height="165" alt="GitHub Stats" />
@@ -93,7 +93,7 @@
 
 ---
 
-## 🎵 Recently Played on Spotify
+## Recently Played on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/zfetjhflg6j4qv4eqb35omqej">
@@ -108,5 +108,5 @@
 </div>
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
